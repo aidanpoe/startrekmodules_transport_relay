@@ -6,7 +6,7 @@
 
 A standalone Garry's Mod addon that adds a Transport Relay toolgun to the Star Trek Modules ecosystem. Mark entities as transport destinations and beam them aboard with style!
 
-![Transport Relay Demo](https://via.placeholder.com/800x400/1a1a2e/64c8ff?text=Transport+Relay+Tool+Demo)
+
 
 ## 🌟 Features
 
